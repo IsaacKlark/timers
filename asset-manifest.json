@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/timers/static/css/main.fc24dfcb.chunk.css",
+    "main.js": "/timers/static/js/main.a461d534.chunk.js",
+    "main.js.map": "/timers/static/js/main.a461d534.chunk.js.map",
+    "runtime-main.js": "/timers/static/js/runtime-main.50e5d4c7.js",
+    "runtime-main.js.map": "/timers/static/js/runtime-main.50e5d4c7.js.map",
+    "static/js/2.efca3064.chunk.js": "/timers/static/js/2.efca3064.chunk.js",
+    "static/js/2.efca3064.chunk.js.map": "/timers/static/js/2.efca3064.chunk.js.map",
+    "index.html": "/timers/index.html",
+    "precache-manifest.60c99bc15ac3f206d0c08b607b24d823.js": "/timers/precache-manifest.60c99bc15ac3f206d0c08b607b24d823.js",
+    "service-worker.js": "/timers/service-worker.js",
+    "static/css/main.fc24dfcb.chunk.css.map": "/timers/static/css/main.fc24dfcb.chunk.css.map",
+    "static/js/2.efca3064.chunk.js.LICENSE.txt": "/timers/static/js/2.efca3064.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/timers/static/media/remove_circle_outline-24px.842b63b4.svg",
+    "static/media/play_circle_outline-24px.svg": "/timers/static/media/play_circle_outline-24px.be88024f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e5d4c7.js",
+    "static/js/2.efca3064.chunk.js",
+    "static/css/main.fc24dfcb.chunk.css",
+    "static/js/main.a461d534.chunk.js"
+  ]
+}
