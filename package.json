@@ -1,6 +1,6 @@
 {
-  "homepage": "http://IsaacKlark.github.io/timers"
-  "name": "test5",
+  "homepage": "http://IsaacKlark.github.io/timers",
+  "name": "timers",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
